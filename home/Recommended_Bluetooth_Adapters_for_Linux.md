@@ -14,6 +14,8 @@ in Issues.
 | Adapter                           | Chipset   | Version | Price     | Link                                      |
 |-----------------------------------|-----------|---------|-----------|-------------------------------------------|
 | EDUP EP-B3536 [1]                 | rtl8761BU | 5.1     | 10 USD    | https://www.amazon.com/dp/B09KG7QQ5V      |
+|-----------------------------------|-----------|---------|-----------|-------------------------------------------|
+| BT 5.3 Black                      |    ???    | 5.3     | 2.84€     | https://tinyurl.com/ardcnrfm              |
 
 
 [1] I have first hand experience with this adapter.
